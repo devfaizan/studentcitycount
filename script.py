@@ -13,6 +13,7 @@ corrections = {
     'ISB': 'Islamabad',
     'Islamabad Capital Territory': 'Islamabad',
     'FEDERAL AREA': 'Islamabad', 
+    'Federal': 'Islamabad',
     'Federal ': 'Islamabad',
     'Sheikapura': 'Sheikhupura',
     'FAISALABAD': 'Faislabad',
